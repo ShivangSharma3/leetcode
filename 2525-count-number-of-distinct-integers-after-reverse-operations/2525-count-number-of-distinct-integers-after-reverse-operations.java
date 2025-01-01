@@ -1,6 +1,6 @@
 class Solution {
     public int countDistinctIntegers(int[] nums) {
-        HashSet<Integer> s1=new HashSet<>();
+        Set<Integer> s1=new HashSet<>();
         for(int i=0;i<nums.length;i++){
             s1.add(nums[i]);
             s1.add(reverse(nums[i]));
