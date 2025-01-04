@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ShivangSharma3/leetcode/tree/master/0007-reverse-integer) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShivangSharma3/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Counting
 |  |
