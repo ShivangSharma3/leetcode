@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ShivangSharma3/leetcode/tree/master/0162-find-peak-element) |
 | [0260-single-number-iii](https://github.com/ShivangSharma3/leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/ShivangSharma3/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/ShivangSharma3/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShivangSharma3/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Two Pointers
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/ShivangSharma3/leetcode/tree/master/0392-is-subsequence) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/ShivangSharma3/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/ShivangSharma3/leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/ShivangSharma3/leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/ShivangSharma3/leetcode/tree/master/0287-find-the-duplicate-number) |
+## String Matching
+|  |
+| ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/ShivangSharma3/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
