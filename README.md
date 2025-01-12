@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ShivangSharma3/leetcode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/ShivangSharma3/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ShivangSharma3/leetcode/tree/master/0070-climbing-stairs) |
+| [0263-ugly-number](https://github.com/ShivangSharma3/leetcode/tree/master/0263-ugly-number) |
 | [2481-strictly-palindromic-number](https://github.com/ShivangSharma3/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShivangSharma3/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Counting
