@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ShivangSharma3/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/ShivangSharma3/leetcode/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/ShivangSharma3/leetcode/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/ShivangSharma3/leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShivangSharma3/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ShivangSharma3/leetcode/tree/master/0169-majority-element) |
 | [0260-single-number-iii](https://github.com/ShivangSharma3/leetcode/tree/master/0260-single-number-iii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ShivangSharma3/leetcode/tree/master/0075-sort-colors) |
+| [0164-maximum-gap](https://github.com/ShivangSharma3/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/ShivangSharma3/leetcode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -126,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/ShivangSharma3/leetcode/tree/master/2481-strictly-palindromic-number) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/ShivangSharma3/leetcode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/ShivangSharma3/leetcode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
