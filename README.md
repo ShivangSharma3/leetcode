@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ShivangSharma3/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/ShivangSharma3/leetcode/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/ShivangSharma3/leetcode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShivangSharma3/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ShivangSharma3/leetcode/tree/master/0169-majority-element) |
 | [0260-single-number-iii](https://github.com/ShivangSharma3/leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/ShivangSharma3/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ShivangSharma3/leetcode/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShivangSharma3/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ShivangSharma3/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/ShivangSharma3/leetcode/tree/master/0392-is-subsequence) |
 | [2481-strictly-palindromic-number](https://github.com/ShivangSharma3/leetcode/tree/master/2481-strictly-palindromic-number) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ShivangSharma3/leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShivangSharma3/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/ShivangSharma3/leetcode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShivangSharma3/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ShivangSharma3/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Memoization
 |  |
