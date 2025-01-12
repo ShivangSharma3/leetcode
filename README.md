@@ -41,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ShivangSharma3/leetcode/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/ShivangSharma3/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/ShivangSharma3/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/ShivangSharma3/leetcode/tree/master/0242-valid-anagram) |
 ## Hash Table
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ShivangSharma3/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ShivangSharma3/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/ShivangSharma3/leetcode/tree/master/0242-valid-anagram) |
 | [0952-word-subsets](https://github.com/ShivangSharma3/leetcode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/ShivangSharma3/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShivangSharma3/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/ShivangSharma3/leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/ShivangSharma3/leetcode/tree/master/0392-is-subsequence) |
 | [0952-word-subsets](https://github.com/ShivangSharma3/leetcode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/ShivangSharma3/leetcode/tree/master/1502-construct-k-palindrome-strings) |
