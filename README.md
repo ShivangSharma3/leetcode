@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ShivangSharma3/leetcode/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/ShivangSharma3/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/ShivangSharma3/leetcode/tree/master/0392-is-subsequence) |
+| [2481-strictly-palindromic-number](https://github.com/ShivangSharma3/leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Sorting
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ShivangSharma3/leetcode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/ShivangSharma3/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ShivangSharma3/leetcode/tree/master/0070-climbing-stairs) |
+| [2481-strictly-palindromic-number](https://github.com/ShivangSharma3/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShivangSharma3/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Counting
 |  |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ShivangSharma3/leetcode/tree/master/0169-majority-element) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/ShivangSharma3/leetcode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
