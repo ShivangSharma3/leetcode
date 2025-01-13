@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ShivangSharma3/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ShivangSharma3/leetcode/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/ShivangSharma3/leetcode/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/ShivangSharma3/leetcode/tree/master/0292-nim-game) |
 | [2481-strictly-palindromic-number](https://github.com/ShivangSharma3/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShivangSharma3/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Counting
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ShivangSharma3/leetcode/tree/master/0292-nim-game) |
 | [2481-strictly-palindromic-number](https://github.com/ShivangSharma3/leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Bucket Sort
 |  |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/ShivangSharma3/leetcode/tree/master/0164-maximum-gap) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ShivangSharma3/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
