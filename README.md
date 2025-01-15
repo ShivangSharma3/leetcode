@@ -43,12 +43,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/ShivangSharma3/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/ShivangSharma3/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ShivangSharma3/leetcode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/ShivangSharma3/leetcode/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ShivangSharma3/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ShivangSharma3/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ShivangSharma3/leetcode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/ShivangSharma3/leetcode/tree/master/0389-find-the-difference) |
 | [0952-word-subsets](https://github.com/ShivangSharma3/leetcode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/ShivangSharma3/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShivangSharma3/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/ShivangSharma3/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ShivangSharma3/leetcode/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/ShivangSharma3/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ShivangSharma3/leetcode/tree/master/0392-is-subsequence) |
 | [0952-word-subsets](https://github.com/ShivangSharma3/leetcode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/ShivangSharma3/leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/ShivangSharma3/leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/ShivangSharma3/leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/ShivangSharma3/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/ShivangSharma3/leetcode/tree/master/0389-find-the-difference) |
 ## String Matching
 |  |
 | ------- |
