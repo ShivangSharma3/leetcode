@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ShivangSharma3/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ShivangSharma3/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ShivangSharma3/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/ShivangSharma3/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ShivangSharma3/leetcode/tree/master/0389-find-the-difference) |
 | [0952-word-subsets](https://github.com/ShivangSharma3/leetcode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/ShivangSharma3/leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ShivangSharma3/leetcode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/ShivangSharma3/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/ShivangSharma3/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShivangSharma3/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## String
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ShivangSharma3/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ShivangSharma3/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ShivangSharma3/leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/ShivangSharma3/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ShivangSharma3/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ShivangSharma3/leetcode/tree/master/0392-is-subsequence) |
 | [0952-word-subsets](https://github.com/ShivangSharma3/leetcode/tree/master/0952-word-subsets) |
@@ -181,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShivangSharma3/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/ShivangSharma3/leetcode/tree/master/0219-contains-duplicate-ii) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ShivangSharma3/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
