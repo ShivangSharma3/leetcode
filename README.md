@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ShivangSharma3/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ShivangSharma3/leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/ShivangSharma3/leetcode/tree/master/0409-longest-palindrome) |
+| [0742-to-lower-case](https://github.com/ShivangSharma3/leetcode/tree/master/0742-to-lower-case) |
 | [0952-word-subsets](https://github.com/ShivangSharma3/leetcode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/ShivangSharma3/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ShivangSharma3/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
