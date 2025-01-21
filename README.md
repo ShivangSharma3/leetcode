@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ShivangSharma3/leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/ShivangSharma3/leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/ShivangSharma3/leetcode/tree/master/0412-fizz-buzz) |
+| [0520-detect-capital](https://github.com/ShivangSharma3/leetcode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/ShivangSharma3/leetcode/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/ShivangSharma3/leetcode/tree/master/0551-student-attendance-record-i) |
 | [0742-to-lower-case](https://github.com/ShivangSharma3/leetcode/tree/master/0742-to-lower-case) |
