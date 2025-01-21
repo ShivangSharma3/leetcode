@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ShivangSharma3/leetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/ShivangSharma3/leetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/ShivangSharma3/leetcode/tree/master/0292-nim-game) |
+| [0412-fizz-buzz](https://github.com/ShivangSharma3/leetcode/tree/master/0412-fizz-buzz) |
 | [2481-strictly-palindromic-number](https://github.com/ShivangSharma3/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShivangSharma3/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Counting
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ShivangSharma3/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ShivangSharma3/leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/ShivangSharma3/leetcode/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/ShivangSharma3/leetcode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/ShivangSharma3/leetcode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/ShivangSharma3/leetcode/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/ShivangSharma3/leetcode/tree/master/0952-word-subsets) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ShivangSharma3/leetcode/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/ShivangSharma3/leetcode/tree/master/0412-fizz-buzz) |
 ## Greedy
 |  |
 | ------- |
