@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShivangSharma3/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ShivangSharma3/leetcode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/ShivangSharma3/leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/ShivangSharma3/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ShivangSharma3/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ShivangSharma3/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ShivangSharma3/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ShivangSharma3/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/ShivangSharma3/leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/ShivangSharma3/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ShivangSharma3/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShivangSharma3/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShivangSharma3/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ShivangSharma3/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ShivangSharma3/leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShivangSharma3/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Brainteaser
