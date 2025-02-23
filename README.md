@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ShivangSharma3/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/ShivangSharma3/leetcode/tree/master/0645-set-mismatch) |
 | [0952-word-subsets](https://github.com/ShivangSharma3/leetcode/tree/master/0952-word-subsets) |
+| [1019-squares-of-a-sorted-array](https://github.com/ShivangSharma3/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ShivangSharma3/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShivangSharma3/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Two Pointers
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShivangSharma3/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/ShivangSharma3/leetcode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/ShivangSharma3/leetcode/tree/master/0541-reverse-string-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/ShivangSharma3/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2481-strictly-palindromic-number](https://github.com/ShivangSharma3/leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Sorting
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/ShivangSharma3/leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShivangSharma3/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/ShivangSharma3/leetcode/tree/master/0645-set-mismatch) |
+| [1019-squares-of-a-sorted-array](https://github.com/ShivangSharma3/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
