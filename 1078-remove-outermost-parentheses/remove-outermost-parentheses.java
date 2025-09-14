@@ -7,11 +7,12 @@ class Solution {
         if(s.charAt(i)==')'){
             count1--;
           if(count1>0){
-            str.append(s.charAt(i));
+            str.append(')');
             }
-          }else if(s.charAt(i)=='('){
+          }
+          else if(s.charAt(i)=='('){
             if(count1>0){
-            str.append(s.charAt(i));
+            str.append('(');
           }
           count1++;
         }
