@@ -1,8 +1,12 @@
 class Solution {
     public boolean checkIfPangram(String sentence) {
-        sentence=sentence.toLowerCase();
-        for(int i=97;i<=122;i++){
-            if(!sentence.contains(String.valueOf((char)i))){
+        HashMap<Character,Integer> map=new HashMap<>();
+        int n=sentence.length();
+        for(int i=0;i<n;i++){
+            map.put(sentence.charAt(i),map.getOrDefault(sentence.charAt(i),0)+1);
+        }
+        for(char i='a';i<='z';i++){
+            if(!map.containsKey(i)){
                 return false;
             }
         }
