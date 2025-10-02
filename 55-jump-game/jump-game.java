@@ -7,9 +7,7 @@ class Solution {
                 return false;
             }
             maxx=Math.max(maxx,i+nums[i]);
-            if(maxx>n-1){
-                return true;
-            }
+            
         }
         return true;
     }
